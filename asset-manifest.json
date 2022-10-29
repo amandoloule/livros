@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/livros/static/css/main.30262e74.css",
+    "main.js": "/livros/static/js/main.12509d3a.js",
+    "static/js/787.998a8e89.chunk.js": "/livros/static/js/787.998a8e89.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/livros/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/livros/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/livros/index.html",
+    "main.30262e74.css.map": "/livros/static/css/main.30262e74.css.map",
+    "main.12509d3a.js.map": "/livros/static/js/main.12509d3a.js.map",
+    "787.998a8e89.chunk.js.map": "/livros/static/js/787.998a8e89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30262e74.css",
+    "static/js/main.12509d3a.js"
+  ]
+}
