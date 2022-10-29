@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# A simple React web app to books / Um aplicativo web React simples para livros
+
+A simple React web app to manage personal books made using Create React App and Bootstrap.
+
+Um aplicativo web React simples para gerenciar livros pessoais feito usando Create React App e Bootstrap.
+
+## Language and Technologies utilized / Linguagem e tecnologias utilizadas
+
+- JavaScript ES2015
+- Node.js 16.16.0
+- React 18.2.0
+- Bootstrap 4.6.2
+
+## Preview
+
+![](screenshot.JPG)
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +84,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
